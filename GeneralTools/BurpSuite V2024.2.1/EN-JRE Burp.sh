@@ -1,0 +1,2 @@
+cd BurpSuite
+java --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED -javaagent:burpsuitloader.jar=loader -jar burpsuite_pro_org.jar

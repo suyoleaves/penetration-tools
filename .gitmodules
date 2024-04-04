@@ -1,6 +1,6 @@
 [submodule "2.InitialAccess/sqlmap"]
-	path = 2.InitialAccess/sqlmap
+	path = GeneralTools/sqlmap
 	url = https://github.com/sqlmapproject/sqlmap.git
 [submodule "2.InitialAccess/dirsearch"]
-	path = 2.InitialAccess/dirsearch
+	path = GeneralTools/dirsearch
 	url = https://github.com/maurosoria/dirsearch.git
